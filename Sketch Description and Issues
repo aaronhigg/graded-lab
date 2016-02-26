@@ -1,0 +1,3 @@
+This sketch uses the rotary angle sensor to adjust the brightness of the LED. When uploading this sketch I had trouble 
+finding the network port which caused an error to occur. Eventually when I could connect to the network port this error 
+resolved itself and the sketch worked.
